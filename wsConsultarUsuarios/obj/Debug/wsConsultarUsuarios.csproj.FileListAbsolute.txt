@@ -16,3 +16,21 @@ E:\Descargas\Registro de alumnos\wsConsultarUsuarios\bin\es\EntityFramework.SqlS
 E:\Descargas\Registro de alumnos\wsConsultarUsuarios\obj\Debug\wsConsultarUsuarios.csprojResolveAssemblyReference.cache
 E:\Descargas\Registro de alumnos\wsConsultarUsuarios\obj\Debug\wsConsultarUsuarios.dll
 E:\Descargas\Registro de alumnos\wsConsultarUsuarios\obj\Debug\wsConsultarUsuarios.pdb
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\obj\Debug\wsConsultarUsuarios.csprojResolveAssemblyReference.cache
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\obj\Debug\wsConsultarUsuarios.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\obj\Debug\wsConsultarUsuarios.pdb
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\wsConsultarUsuarios.dll.config
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\wsConsultarUsuarios.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\wsConsultarUsuarios.pdb
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\Entidad.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\EntityFramework.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\EntityFramework.SqlServer.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\Negocio.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\Datos.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\Entidad.pdb
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\Negocio.pdb
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\EntityFramework.xml
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\EntityFramework.SqlServer.xml
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\Datos.pdb
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\es\EntityFramework.resources.dll
+D:\Registro-de-alumnos-Bitbucket\wsConsultarUsuarios\bin\es\EntityFramework.SqlServer.resources.dll
