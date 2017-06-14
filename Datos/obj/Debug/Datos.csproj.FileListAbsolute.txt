@@ -55,3 +55,17 @@ E:\Descargas\Registro de alumnos-Bitbucket\Datos\bin\Debug\es\EntityFramework.Sq
 E:\Descargas\Registro de alumnos-Bitbucket\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 E:\Descargas\Registro de alumnos-Bitbucket\Datos\obj\Debug\Datos.dll
 E:\Descargas\Registro de alumnos-Bitbucket\Datos\obj\Debug\Datos.pdb
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\Datos.dll.config
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\Datos.dll
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\Datos.pdb
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\Entidad.dll
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\EntityFramework.dll
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\Entidad.pdb
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\EntityFramework.xml
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\es\EntityFramework.resources.dll
+D:\Registro-de-alumnos-Bitbucket\Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Registro-de-alumnos-Bitbucket\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Registro-de-alumnos-Bitbucket\Datos\obj\Debug\Datos.dll
+D:\Registro-de-alumnos-Bitbucket\Datos\obj\Debug\Datos.pdb
