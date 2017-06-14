@@ -1,0 +1,12 @@
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\Entidad.dll.config
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\Entidad.dll
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\Entidad.pdb
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\EntityFramework.dll
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\EntityFramework.SqlServer.dll
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\EntityFramework.xml
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\EntityFramework.SqlServer.xml
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\es\EntityFramework.resources.dll
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\obj\Debug\Entidad.dll
+E:\Descargas\Registro de alumnos-Bitbucket\Entidad\obj\Debug\Entidad.pdb
