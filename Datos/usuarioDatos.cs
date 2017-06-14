@@ -120,18 +120,19 @@ namespace Datos
 
         } // fin del método eliminarUsuarioDatos
 
+        // Este método permite obtener la información de un usuario
+        // con base en su ID
         public Entidad.Usuarios obtenerUsuarioDatos(int idUsuario)
         {
 
-            Entidad.CursoNetEntities dc = null;
-            Entidad.Usuarios usuario = null;
+            Entidad.CursoNetEntities dc = new Entidad.CursoNetEntities();
+            Entidad.Usuarios usuario = new Entidad.Usuarios();
 
             try
             {
 
                 // obtenemos la información del usuario con base en el parámetro nombreUsuario
 
-                dc = new Entidad.CursoNetEntities();
                 usuario = dc.Usuarios.Where(u => u.Id == idUsuario).FirstOrDefault();
 
                 return usuario;

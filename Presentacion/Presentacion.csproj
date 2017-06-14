@@ -222,6 +222,7 @@
     <Content Include="wfSesionIniciar.aspx" />
     <Content Include="wfUsuarioActualizar.aspx" />
     <Content Include="wfUsuarioAgregar.aspx" />
+    <Content Include="wfUsuarioPrueba.aspx" />
     <Content Include="wfUsuarioReporteListado.aspx" />
     <None Include="Properties\PublishProfiles\publicacionPrueba.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -487,6 +488,13 @@
     </Compile>
     <Compile Include="wfUsuarioAgregar.aspx.designer.cs">
       <DependentUpon>wfUsuarioAgregar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wfUsuarioPrueba.aspx.cs">
+      <DependentUpon>wfUsuarioPrueba.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfUsuarioPrueba.aspx.designer.cs">
+      <DependentUpon>wfUsuarioPrueba.aspx</DependentUpon>
     </Compile>
     <Compile Include="wfUsuarioReporteListado.aspx.cs">
       <DependentUpon>wfUsuarioReporteListado.aspx</DependentUpon>

@@ -123,15 +123,14 @@ namespace Negocio
         public Entidad.Usuarios obtenerUsuarioNegocio(string nombreUsuario)
         {
 
-            Datos.usuarioDatos dc = null;
-            Entidad.Usuarios usuario = null;
+            Datos.usuarioDatos dc = new Datos.usuarioDatos();
+            Entidad.Usuarios usuario = new Entidad.Usuarios();
 
             try
             {
 
                 // este método busca un usuario con base en su nombre
 
-                dc = new Datos.usuarioDatos();
                 usuario = dc.obtenerUsuarioDatos(nombreUsuario);
 
                 return usuario;
