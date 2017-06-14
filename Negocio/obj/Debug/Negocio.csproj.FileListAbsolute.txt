@@ -64,3 +64,19 @@ E:\Descargas\Registro de alumnos-Bitbucket\Negocio\bin\Debug\es\EntityFramework.
 E:\Descargas\Registro de alumnos-Bitbucket\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 E:\Descargas\Registro de alumnos-Bitbucket\Negocio\obj\Debug\Negocio.dll
 E:\Descargas\Registro de alumnos-Bitbucket\Negocio\obj\Debug\Negocio.pdb
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\Negocio.dll.config
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\Negocio.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\Negocio.pdb
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\Datos.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\Entidad.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\EntityFramework.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\Datos.pdb
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\Entidad.pdb
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\EntityFramework.xml
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\es\EntityFramework.resources.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Registro-de-alumnos-Bitbucket\Negocio\obj\Debug\Negocio.dll
+D:\Registro-de-alumnos-Bitbucket\Negocio\obj\Debug\Negocio.pdb
